@@ -1,0 +1,24 @@
+# IDE specific folders
+.idea
+.vscode/
+
+
+# Application configurations
+.env
+
+
+# Application runtime folders
+bin/
+tmp/
+vendor/
+__debug_bin
+
+
+# Testing specific files
+.docker-data/
+local-docker-compose.yml
+
+#Configurations or files for personal use
+*user
+
+.DS_Store
